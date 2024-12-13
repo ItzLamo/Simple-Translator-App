@@ -1,6 +1,6 @@
-# Google Translator (Tkinter and googletrans)
+# Simple Translator (Tkinter and googletrans)
 
-This project is a simple Python-based Google Translator built using the `Tkinter` library for the graphical user interface (GUI) and `googletrans` package for translation functionality. The translator supports multiple languages and provides a user-friendly interface to translate text.
+This project is a simple Python-based Translator built using the `Tkinter` library for the graphical user interface (GUI) and `googletrans` package for translation functionality. The translator supports multiple languages and provides a user-friendly interface to translate text.
 
 ## Features
 
